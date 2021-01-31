@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Ex4.fs" />
     <Compile Include="Ex3.fs" />
     <Compile Include="Ex2.fs" />
     <Compile Include="Ex1.fs" />
